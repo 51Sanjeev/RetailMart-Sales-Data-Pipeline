@@ -1,0 +1,19 @@
+product_id,product_name,category,price
+P001,Whole Milk 1L,Dairy,2.49
+P002,Cheddar Cheese 200g,Dairy,3.99
+P003,Greek Yogurt 500g,Dairy,4.29
+P004,White Bread Loaf,Bakery,2.99
+P005,Croissant Pack (6),Bakery,5.49
+P006,Bagels Pack (6),Bakery,4.99
+P007,Bananas 1kg,Produce,1.29
+P008,Apples 1kg,Produce,2.79
+P009,Carrots 1kg,Produce,1.49
+P010,Chicken Breast 1kg,Meat,8.99
+P011,Ground Beef 1kg,Meat,9.49
+P012,Salmon Fillet 500g,Seafood,11.99
+P013,Orange Juice 1L,Beverages,3.49
+P014,Cola 2L,Beverages,2.29
+P015,Sparkling Water 1L,Beverages,1.59
+P016,Potato Chips 200g,Snacks,2.99
+P017,Dark Chocolate Bar,Snacks,3.29
+P018,Mixed Nuts 250g,Snacks,5.99

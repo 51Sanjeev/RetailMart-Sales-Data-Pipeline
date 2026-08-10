@@ -1,0 +1,16 @@
+store_id,store_name,city,region
+ST01,Downtown Mart,New York,Northeast
+ST02,Riverside Grocers,Boston,Northeast
+ST03,Sunset Market,Los Angeles,West
+ST04,Golden Gate Foods,San Francisco,West
+ST05,Lakeview Store,Chicago,Midwest
+ST06,Heartland Mart,Detroit,Midwest
+ST07,Bayou Grocers,New Orleans,South
+ST08,Lone Star Mart,Houston,South
+ST09,Peach Market,Atlanta,South
+ST10,Capitol Foods,Washington DC,Northeast
+ST11,Mile High Mart,Denver,West
+ST12,Emerald Grocers,Seattle,West
+ST13,Music City Market,Nashville,South
+ST14,Twin Cities Mart,Minneapolis,Midwest
+ST15,Desert Bloom Foods,Phoenix,West
